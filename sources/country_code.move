@@ -1,4 +1,4 @@
-// Copyright (c) Unconfirmed Labs, LLC
+// Copyright (c) Unconfirmed Labs, Inc.
 // SPDX-License-Identifier: MIT
 
 /// `CountryCode` — a validated ISO 3166-1 alpha-2 country code (e.g. "JP").
